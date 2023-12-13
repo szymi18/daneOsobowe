@@ -10,3 +10,21 @@ Telefon: 7825345
 PESEL: 12345678777
 Umowa: True
 
+Imie: Adam
+Nazwisko: Kowal
+Telefon: 781445123
+PESEL: 12356754714
+Umowa: True
+
+Imie: Jan
+Nazwisko: Kowalski
+Telefon: 123456789
+PESEL: 12345678901
+Umowa: True
+
+Imie: Ewa
+Nazwisko: Kowalska
+Telefon: 098123586
+PESEL: 12860429851
+Umowa: False
+

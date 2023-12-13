@@ -27,6 +27,7 @@ class MyForm(QDialog):
             plik = "wynik.txt"
             with open(plik, "a") as plik:
                 plik.write(f"Imie: {imie}\nNazwisko: {nazwisko}\nTelefon: {telefon}\nPESEL: {pesel}\nUmowa: {umowa}\n\n")
+                QtWidgets.QMessageBox.warning(self, "Zapis danych", "Dane zostały poprawnie zapisane w pliku o nazwie wynik.txt")
         else:
             QtWidgets.QMessageBox.warning(self, "Niepoprawny pesel", "popraw")
             return
