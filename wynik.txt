@@ -1,0 +1,12 @@
+Imie: Szymon
+Nazwisko: Michna
+Telefon: 782554123
+PESEL: 12345678912
+Umowa: False
+
+Imie: jan 
+Nazwisko: kowalski
+Telefon: 7825345
+PESEL: 12345678777
+Umowa: True
+
